@@ -1,0 +1,22 @@
+Товары недели -> https://uzum.uzNone
+Детский мир -> https://uzum.uzNone
+Электроника -> https://uzum.uz/ru/category/elektronika-10020
+Бытовая техника -> https://uzum.uz/ru/category/bytovaya-tekhnika-10004
+Одежда -> https://uzum.uz/ru/category/odezhda-10014
+Обувь -> https://uzum.uz/ru/category/obuv-10013
+Аксессуары -> https://uzum.uz/ru/category/aksessuary-10003
+Красота и уход -> https://uzum.uz/ru/category/krasota-i-ukhod-10012
+Здоровье -> https://uzum.uz/ru/category/zdorove-10009
+Товары для дома -> https://uzum.uz/ru/category/tovary-dlya-doma-10018
+Строительство и ремонт -> https://uzum.uz/ru/category/stroitelstvo-i-remont-10016
+Автотовары -> https://uzum.uz/ru/category/avtotovary-10002
+Детские товары -> https://uzum.uz/ru/category/detskie-tovary-10007
+Хобби и творчество -> https://uzum.uz/ru/category/khobbi-i-tvorchestvo-10008
+Спорт и отдых -> https://uzum.uz/ru/category/sport-i-otdykh-10015
+Продукты питания -> https://uzum.uz/ru/category/produkty-pitaniya-1821
+Бытовая химия -> https://uzum.uz/ru/category/bytovaya-khimiya-10005
+Канцтовары -> https://uzum.uz/ru/category/kanctovary-10010
+Зоотовары -> https://uzum.uz/ru/category/zootovary-10019
+Книги -> https://uzum.uz/ru/category/knigi-10011
+Дача, сад и огород -> https://uzum.uz/ru/category/dacha-sad-i-ogorod-10006
+Субсидируемые товары для реабилитации -> https://uzum.uz/ru/category/subsidiruemye-tovary-dlya-reabilitacii-12087
