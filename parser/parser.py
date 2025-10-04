@@ -49,7 +49,6 @@ class uzum(SaveFromBan):
                 href = span_tag.get("href")
                 #print(f"{name} -> https://uzum.uz")
                 result.append(f"{name} -> https://uzum.uz{href}")
-        return result
         content = main_page_html.find_all("li", class_ = "category")
         for item in content:
             a_tag = item.find("a", class_="ui-link category__body slightly transparent")
@@ -58,7 +57,6 @@ class uzum(SaveFromBan):
                 href = a_tag.get("href")
                 #print(f"{name} -> https://uzum.uz{href}")
                 result.append(f"{name} -> https://uzum.uz{href}")
-        return result
         with open("result.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(result))
 
